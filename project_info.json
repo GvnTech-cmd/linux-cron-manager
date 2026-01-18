@@ -1,0 +1,17 @@
+{
+  "projectName": "Linux Cron Manager",
+  "category": "Automation & Scheduling",
+  "author": "GvnTech",
+  "version": "1.0.0",
+  "description": "Ubuntu sistemlerde zamanlanmış görevleri ve yedeklemeleri yöneten arayüz.",
+  "features": [
+    "Crontab to Human Readable",
+    "Backup Wizard",
+    "Log Monitoring",
+    "Auto-Self Check"
+  ],
+  "requirements": {
+    "os": "Ubuntu 22.04+",
+    "language": "Bash Script"
+  }
+}
